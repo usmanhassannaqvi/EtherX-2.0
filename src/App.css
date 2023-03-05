@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@200;400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;700&family=Playfair+Display:ital,wght@0,400;1,600&display=swap');
+
+body {
+  /* background-color: #181822; */
+  background-color: #272831;
+  color: white;
+  font-family: "Lexend";
+}
+.rumi{
+  font-family:"Playfair" ;
+
+}
